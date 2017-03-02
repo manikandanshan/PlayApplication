@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\conf\application.conf,C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\conf\evolutions,C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\target\scala-2.11\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\conf\logback.xml,C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\conf\messages,C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\target\scala-2.11\classes\messages)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\conf\routes,C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\target\scala-2.11\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\conf\evolutions\default,C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\target\scala-2.11\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\conf\evolutions\default\1.sql,C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\target\scala-2.11\classes\evolutions\default\1.sql)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\conf\evolutions\default\2.sql,C:\Users\Nagarajan\Desktop\EXAMPLE PROJECTS\PLAY_AAMP\target\scala-2.11\classes\evolutions\default\2.sql)[0m
